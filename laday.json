@@ -1,0 +1,53 @@
+[
+ {
+     "title":"صباح العربية",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/alsaeda/goodarab/master/001.jpg",
+    "arguments":[
+      "PLOFBlNCrlrW6L0lwEyCPXAPnHPPcwEuuU"
+    ]
+  },
+  {
+
+
+    "title":" تفاعلكم",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/alsaeda/goodarab/master/002.jpg",
+    "arguments":[
+      "PLOFBlNCrlrW40Wh4L-nLmdjIRxfG0tO60"
+    ]
+  },
+      {
+  "title":"مرايا    ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/alsaeda/goodarab/master/003.jpg",
+    "arguments":[
+      "PLOFBlNCrlrW6MXuYky7b0Es9IhS3lYXHi"
+    ]
+  },
+      {
+  "title":"تكنولوجيا وسوشال ميديا ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/alsaeda/goodarab/master/004.jpg",
+    "arguments":[
+      "PLOFBlNCrlrW4pks_b3tv7vPgDD5FU0f5U"
+    ]
+  },
+      {
+  "title":"صحة ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/alsaeda/goodarab/master/005.jpg",
+    "arguments":[
+      "PLOFBlNCrlrW6QnhLSPfcdWguuszSKGur9"
+    ]
+  },
+      {
+  "title":"العربية معرفة",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/alsaeda/goodarab/master/006.jpg",
+    "arguments":[
+      "PLOFBlNCrlrW6vspYvscuWxeBApbLyacUE"
+    ]
+  }
+  
+]
